@@ -1,0 +1,4 @@
+st=input("input the filename")
+x=st.endswith(py)
+if x==true:
+    print(" the extension of the file is:python")
